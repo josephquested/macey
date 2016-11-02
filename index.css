@@ -1,0 +1,19 @@
+body {
+  background-color: tan;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+  padding-top: 25px;
+  font-style: italic;
+}
+
+#results {
+  margin-top: 2000px;
+  color: red;
+}
+
+.loading {
+  margin-top: 1000px;
+}
