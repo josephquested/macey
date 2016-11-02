@@ -1,3 +1,7 @@
+* {
+  font-family: 'Inconsolata', monospace;
+}
+
 body {
   background-color: tan;
   text-align: center;
